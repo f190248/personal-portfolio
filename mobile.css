@@ -80,18 +80,12 @@ padding-bottom: 1rem;
     }
 }
 
-@media(max-width:375px){
 
-    .page-container img{
-        height: 250px;
-        width: 280px;
-    }
-}
 
 @media(max-width:414px){
 
     .page-container img{
         height: 250px;
-        width: 280px;
+        width: 300px;
     }
 }
