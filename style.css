@@ -201,7 +201,7 @@ p{
  #showcase{
     color: white;
     background-color: #333;
-    padding: 2rem;
+    padding:2rem;
     position: relative;
  }
 
@@ -228,9 +228,9 @@ p{
     z-index: 1;
  }
 
- #showcase .showcase-content p{
+ /* #showcase .showcase-content p{
     margin-bottom: 1rem;
- }
+ } */
 
  #home-skills .skills-container {
    display: grid;
