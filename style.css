@@ -221,16 +221,16 @@ p{
     grid-template-columns: repeat(2,1fr);
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 60vh;
  }
 
  #showcase .showcase-content{
     z-index: 1;
  }
 
- /* #showcase .showcase-content p{
+ #showcase .showcase-content p{
     margin-bottom: 1rem;
- } */
+ }
 
  #home-skills .skills-container {
    display: grid;
