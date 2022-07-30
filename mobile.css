@@ -72,17 +72,10 @@ padding-bottom: 1rem;
     }
 }
 
-@media(max-width:360px){
-
-    .page-container img{
-        height: 250px;
-        width: 280px;
-    }
-}
 
 
 
-@media(max-width:414px){
+@media(max-width:400px){
 
     .page-container img{
         height: 250px;
