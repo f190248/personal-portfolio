@@ -71,3 +71,11 @@ padding-bottom: 1rem;
         width: 360px;
     }
 }
+
+@media(max-width:360px){
+
+    .page-container img{
+        height: 250px;
+        width: 280px;
+    }
+}
